@@ -1,0 +1,36 @@
+{
+    "response": [
+        {
+            "car": "Maruti Brezza",
+            "visit": "2020-11-22T06:09:31Z"
+        },
+        {
+            "car": "Kia Sonet",
+            "visit": "2020-11-22T06:09:31Z"
+        },
+        {
+            "car": "Maruti Swift",
+            "visit": "2020-11-20T06:09:31Z"
+        },
+        {
+            "car": "Hyundai i20",
+            "visit": "2020-11-19T06:09:31Z"
+        },
+        {
+            "car": "Hyundai i10 Nios",
+            "visit": "2020-11-17T06:09:31Z"
+        },
+        {
+            "car": "Tata Altroz",
+            "visit": "2020-11-16T06:09:31Z"
+        },
+        {
+            "car": "Tata Tigor",
+            "visit": "2020-11-16T06:09:31Z"
+        },
+        {
+            "car": "Volkswagen Polo",
+            "visit": "2020-11-15T06:09:31Z"
+        }
+    ]
+}
